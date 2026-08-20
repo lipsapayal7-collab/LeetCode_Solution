@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1386-cinema-seat-allocation) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
