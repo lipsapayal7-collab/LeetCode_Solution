@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1872-stone-game-viii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
