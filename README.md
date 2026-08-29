@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0697-degree-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1872-stone-game-viii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
