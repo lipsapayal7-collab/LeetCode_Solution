@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0013-roman-to-integer) |
+| [0115-distinct-subsequences](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 ## Minimax
