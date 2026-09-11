@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0697-degree-of-an-array](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0697-degree-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1386-cinema-seat-allocation) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
