@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
