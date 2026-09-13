@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0697-degree-of-an-array](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0697-degree-of-an-array) |
+| [0835-image-overlap](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
