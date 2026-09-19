@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1927-sum-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
