@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -201,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lipsapayal7-collab/LeetCode_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
